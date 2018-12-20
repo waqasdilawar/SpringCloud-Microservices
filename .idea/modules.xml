@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.discorp.config-server.iml" filepath="$PROJECT_DIR$/.idea/modules/com.discorp.config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.discorp.config-server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.discorp.config-server.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.discorp.config-server.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.discorp.config-server.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.discorp.discovery-server.iml" filepath="$PROJECT_DIR$/.idea/modules/com.discorp.discovery-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.discorp.discovery-server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.discorp.discovery-server.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.discorp.discovery-server.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.discorp.discovery-server.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.discorp.gateway-service.iml" filepath="$PROJECT_DIR$/.idea/modules/com.discorp.gateway-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.discorp.gateway-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.discorp.gateway-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.discorp.gateway-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.discorp.gateway-service.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.discorp.support-portal.iml" filepath="$PROJECT_DIR$/.idea/modules/com.discorp.support-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.discorp.support-portal.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.discorp.support-portal.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.discorp.support-portal.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.discorp.support-portal.test.iml" />
+    </modules>
+  </component>
+</project>

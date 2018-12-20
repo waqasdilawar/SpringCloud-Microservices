@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="com.discorp.config-server.main" target="1.8" />
+      <module name="com.discorp.config-server.test" target="1.8" />
+      <module name="com.discorp.discovery-server.main" target="1.8" />
+      <module name="com.discorp.discovery-server.test" target="1.8" />
+      <module name="com.discorp.gateway-service.main" target="1.8" />
+      <module name="com.discorp.gateway-service.test" target="1.8" />
+      <module name="com.discorp.support-portal.main" target="1.8" />
+      <module name="com.discorp.support-portal.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
